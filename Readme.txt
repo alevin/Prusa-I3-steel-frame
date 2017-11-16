@@ -1,0 +1,1 @@
+This files are to be used with Prusa I3 Steel with fullLCD, 5mm thread leading screws, direct extruder and Hall sensors. 
