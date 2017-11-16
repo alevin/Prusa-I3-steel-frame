@@ -1,1 +1,0 @@
-Con estos ficheros puedes instalar un a Prusa I3 con chasis de acero y pantalla FullLCD
